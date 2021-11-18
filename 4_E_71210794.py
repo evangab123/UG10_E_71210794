@@ -1,7 +1,7 @@
 a=int(input("Masukan bilangan 1 : "))
 b=int(input("Masukan bilangan 2 : "))
 c=int(input("Masukan bilangan 3 : "))
-#-3,4,-9
+
 
 if      a > b:
         x = a
@@ -27,8 +27,3 @@ if       a > b:
 print(a,b,c)
 
 
-#bilangan = bil1, bil2, bil3
-#bilangan1=','.join(bilangan)
-#bilangan2= bilangan1.split()
-
-#print(bilangan2)
